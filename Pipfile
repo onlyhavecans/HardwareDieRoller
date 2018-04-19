@@ -1,0 +1,14 @@
+[[source]]
+url = "https://pypi.org/simple"
+verify_ssl = true
+name = "pypi"
+
+[packages]
+"discord.py" = "==0.16.8"
+randomroller = {git = "https://github.com/onlyhavecans/randomroller.git", editable = true}
+pyserial = "*"
+
+[dev-packages]
+
+[requires]
+python_version = "3.6"

@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "df5702e37a2c2d5f5b744036322b9ba6820eaa553f752b9cadd7d2bfd984d028"
+            "sha256": "d71d131979da72140a8d475a5c06049239c67d469ee0a16b49b186732c0df24b"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -83,13 +83,15 @@
                 "sha256:6e2d401fdee0eab996cf734e67773a0143b932772ca8b42451440cfed942c627",
                 "sha256:e0770fadba80c31013896c7e6ef703f72e7834965954a78e71a3049488d4d7d8"
             ],
-            "index": "pypi",
             "version": "==3.4"
         },
         "randomroller": {
-            "editable": true,
-            "git": "https://github.com/onlyhavecans/randomroller.git",
-            "ref": "7cb700c5b6174d0b812fae3aeb0f2987929bb60f"
+            "hashes": [
+                "sha256:37c3fe5d03fb148d386b060dcee6f4b33c33b4a3b910c7fd2d0ef5a4de106191",
+                "sha256:7e8e80d6885b28288239aa44d370bc4906977d0a20a4efb118a2c000e3fc11ea"
+            ],
+            "index": "pypi",
+            "version": "==2.2.1"
         },
         "websockets": {
             "hashes": [

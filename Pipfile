@@ -5,8 +5,7 @@ name = "pypi"
 
 [packages]
 "discord.py" = "==0.16.8"
-randomroller = {git = "https://github.com/onlyhavecans/randomroller.git", editable = true}
-pyserial = "*"
+randomroller = "*"
 
 [dev-packages]
 
